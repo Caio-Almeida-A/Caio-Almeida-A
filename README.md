@@ -2,7 +2,6 @@
 - 👀 I’m currently focusing in programming languages
 - 🌱 I’m currently learning computer science on cesar school
 - 💻 I’m looking to collaborate on future internship projects
-- 💞️ Pronouns: She/her
 
 # Top Languages/tools used
 ### 👨‍💻 Languages
